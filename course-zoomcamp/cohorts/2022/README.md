@@ -86,19 +86,21 @@
 
 * [Module materials](../../08-deep-learning)
 * [Homework](08-deep-learning/homework.md)
+* Homework solution:
+  * [Notebook](08-deep-learning/homework_8.ipynb)
 * [Saturn Cloud: Notebooks with GPUs](https://bit.ly/saturn-mlzoomcamp) 
 
 
 **9. Serverless Deep Learning**
 
 * [Module materials](../../09-serverless)
-* TBA
+* [Homework](09-serverless/homework.md)
 
 
 **10. Kubernetes and TensorFlow Serving**
 
 * [Module materials](../../10-kubernetes)
-* TBA
+* [Homework](10-kubernetes/homework.md)
 
 
 **11. KServe (optional)**
@@ -120,6 +122,10 @@
 
 * TBA
 
+
+**[Image classification competition](https://www.kaggle.com/competitions/kitchenware-classification/)**
+
+If you liked our deep learning module, join us to build a model for classifying cups, glasses, plates, spoons, forks and knives.
 
 
 ## Supporters and partners
